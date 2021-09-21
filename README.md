@@ -6,3 +6,4 @@
 #### The above example is for the number (n) : 19907
 
 ##### For more information about this conjecture please visit: https://en.wikipedia.org/wiki/Collatz_conjecture
+##### This is a video by a YouTuber called Veritasium which beautifully explains this conjecture: https://youtu.be/094y1Z2wpJg
